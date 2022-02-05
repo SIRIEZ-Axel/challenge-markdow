@@ -4,13 +4,13 @@
 
 ![Just a picture of me](axel.png "Axel")
 
-###### Hello, my name is Axel Siriez, I'm 24 years old and I'm born in belgium.
+### Hello, my name is Axel Siriez, I'm 24 years old and I'm born in belgium.
 
 | Birthday | Gender | Favorite color | Favorite food | pineapple on pizza |
 |:--------:|:------:|:--------------:|:-------------:|:------------------:|
-|07/10/1997|M       |Blue            |Pizza          |[x] yes [] no       |
+|07/10/1997|M       |Blue            |Pizza          |<ul><li>- [x] yes</li><li>- [ ] no</li></ul>|
 
-###### Hobbies
+### Hobbies
 - playing video games :video_game:
 - IT :computer:
 - listening to music :headphones:
@@ -27,14 +27,14 @@
 - cuddle my cat :cat:
 - ...
 
-###### U can always count on me when 
+### U can always count on me when 
 u have a problem with code project if I can of course.
 I'm here to bring peace and joy to everyone.
 
-###### A funny story
+### A funny story
 My story happened the day before this code, I was hanging with friends when one of us wanted to go looking for something at the house of a friends of him. It was supposed to be close to us, like 2 or 3 streets way. Finally it took us maybe 45 minutes to find him!! Just because he was drunk so he couldn't tell us his adress. Our driver was so angry to go in circles, his face turns red like a tomato.
 
-###### TL;DR 
+### TL;DR 
 It is a story of friends who are going in circle.
 
-[<< previous](https://github.com/Nymphadorart/Challenge-Markdown) || Axel SIRIEZ || [Next >>](https://github.com/BastienDP)
+[<< previous](https://github.com/Nymphadorart/Challenge-Markdown) || Axel SIRIEZ || [Next >>](https://github.com/BastienDP/Markdown) 
