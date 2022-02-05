@@ -8,7 +8,7 @@
 
 | Birthday | Gender | Favorite color | Favorite food | pineapple on pizza |
 |:--------:|:------:|:--------------:|:-------------:|:------------------:|
-|07/10/1997|M       |Blue            |Pizza          |<ul><li>- [x] yes</li><li>- [ ] no</li></ul>|
+|07/10     |M       |Blue            |Pizza          |<ul><li>- [x] yes</li><li>- [ ] no</li></ul>|
 
 ### Hobbies
 - playing video games :video_game:
